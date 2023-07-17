@@ -1,0 +1,80 @@
+ [
+    {
+        "prefix": "",
+        "account_name": "UrbanizeATLNewsBot",
+        "rss": "https://atlanta.urbanize.city/rss.xml",
+        "community_name": "atlantanews"
+    },
+    {
+        "prefix": "",
+        "account_name": "BeltlineNewsBot",
+        "rss": "https://beltline.org/feed/",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "ATLDailyWorldNewsBot",
+        "prefix": "From the Atlanta Daily World: \n",
+        "rss": "https://atlantadailyworld.com/feed/",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "wabelocalnewsbot",
+        "prefix": "From WABE Local News: \n",
+        "rss": "https://www.wabe.org/local/feed",
+        "community_name": "atlantanews"
+    },
+        {
+        "account_name": "wabepoliticsnewsbot",
+        "prefix": "From WABE Politics News: \n",
+        "rss": "https://www.wabe.org/politics/feed",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "nytganewsbot",
+        "prefix": "From the New York Times: \n",
+        "rss": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/topic/destination/georgia-us-state/rss.xml",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "atltribunenewsbot",
+        "prefix": "From the Atlanta Tribune: \n",
+        "rss": "https://atlantatribune.com/feed/",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "atlartsnewsbot",
+        "prefix": "Arts Atlanta:\n",
+        "rss": "https://www.artsatl.org/feed/",
+        "community_name": "atlantanews"
+    },
+        {
+        "account_name": "atlartsnewsbot",
+        "prefix": "From WABE Arts and Culture News:\n",
+        "rss": "https://www.wabe.org/arts-culture/feed/",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "apdnewsbot",
+        "prefix": "From the Atlanta Police Department:\n",
+        "rss": "https://www.atlantapd.org/Home/Components/RssFeeds/RssFeed/View?ctID=5&cateIDs=6%2c11%2c23%2c24%2c25%2c26%2c36%2c54%2c57%2c61%2c62%2",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "ajcpoliticsbot",
+        "prefix": "From the Atlanta Journal Constitution Politics News:\n",
+        "rss": "https://www.ajc.com/politics/app/?outputType=rss",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "ajccrimebot",
+        "prefix": "From the Atlanta Journal Constitution Crime News:\n",
+        "rss": "https://www.ajc.com/app-crime-feed/?outputType=rss",
+        "community_name": "atlantanews"
+    },
+    {
+        "account_name": "theajcnewsbot",
+        "prefix": "From the Atlanta Journal Constitution News:\n",
+        "rss": "https://www.ajc.com/app-news-feed/?outputType=rss",
+        "community_name": "atlantanews"
+    }
+]
